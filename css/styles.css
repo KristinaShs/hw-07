@@ -64,7 +64,7 @@ body{
 }
 
 /* LOGO */
-.header-container{
+.header__container{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -654,7 +654,7 @@ color: var(--rare-white-text-color);
     transform: translateY( 0);
 } 
 /* .................../////.............FOOTER .........///////....*/
-.container  .footer-container{
+.container  .footer__container{
 max-width: 1600px;
 }
 .webstudio{
@@ -707,7 +707,7 @@ letter-spacing: 0.03em;
     text-decoration: none;
 }
 
-.footer-container{
+.footer__container{
     display: flex;
     align-items: baseline;
 }
